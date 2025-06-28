@@ -5,7 +5,7 @@ AUTH_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5IiwianRpIjoiMGRjM
 API_URL = 'https://api.hmh.gov.mv/api/queue/0'
 JSON_FILE = 'queue_data.json'
 # telegram links--------------------------------------------------------
-TELEGRAM_BOT_TOKEN = '7953089990:AAHAyrcGr_kyKIGSSx29PLY91i4_7G2nvbg'
+TELEGRAM_BOT_TOKEN = '-'
 API_URL_BASE = f'https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/'
 # ------------------------------------------------------------------------
 HEADERS = {
