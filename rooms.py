@@ -1,7 +1,4 @@
 import requests
-TELEGRAM_BOT_TOKEN = '7883099850:AAFGMRnEZGE5vKH6CUMHyZMmyBu3Sdl0pts'
-API_URL_BASE = f'https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/'
-
 def all_rooms_list_grouped(queue_data, mode):
     """Builds a grouped list of rooms, filtered by `mode`."""
     if not queue_data:

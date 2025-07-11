@@ -17,10 +17,6 @@ HEADERS = {
     'authorization': AUTH_TOKEN
 }
 
-
-# FUNCTIONS NOTIFYING THE CREATOR IF THERE IS ANY ISSUE CALLING THE DATA FROM THE WEBSITE
-
-
 # globals:
 sessions = {}  # chat_id
 class Session:
