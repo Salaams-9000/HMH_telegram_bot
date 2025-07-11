@@ -6,7 +6,7 @@ from rooms import all_rooms_list_grouped
 AUTH_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5IiwianRpIjoiMGRjMDc3ZGNmOWJhM2JjMDAxYWE4YjUxMmM3MDZjZjIxZGFjNDlkMmQ1OTJlNDYxMWMxMmJiMTY3NjZiNzE3YTlhOTEyZGQyZWNhMTE0YzYiLCJpYXQiOjE3MzY2ODM1NjQuMjE5MTYyLCJuYmYiOjE3MzY2ODM1NjQuMjE5MTY0LCJleHAiOjE3NjgyMTk1NjQuMTkwNDQ0LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.Yp-DePs9uK0C8ZtR5zbO4QQlfkZuVcFQsLQFj8RdCNXLX6fyhMyt6-EI0DAY89eHWGQf2IKUK0bAE1EU2ur10ODUbJKcqUtGCGGAaXY9L2h_ZGR08V3mCkf_xi3EmPzEpZ3sgZESgnGVB9gPp93rqeefXpOGKWfQwDeaW7zGAmew5nvNBZwYkTXfaFIJRZdCWQ_Qc-evuw-7iICqjgoWCn6rQGsKHpI1JBdCSPfgAgNy4kuK30xFN5nzQyCchiMIfnEzzClpV3xzhFd-HfV2Hk8WkPsE2UTNtsVFK7VweU9TQs58OZVrsGTBgmxdf8jMuB6T-4DgaRctaWkqasTsZa7WSk302FrtEF9fWWbpZY2l8XxtbwJMowIVGPBNfPyqD_tOYaZy0hBG5S3Q6GSRbg1ZRu5P63Gx8hSp7YMnRlEt4wy_CZMR0gzC4cs6RnUMgqUj-Q_VhV0BidGU8z6z4F5VENBbfbDFM-dYkEP5Ju09ghxXrT1-XGDPR4XKOzdWuiZOM1bwLlffpSDzygInX0Z-HNz6BMzK0LsOI0HlEPFl6V2bAcRH9g0jT4hwL0TnZTmlJpkwI2QQaGqM7d3bhqCnUzIgfediXywaJkPuYtqIm2-1Q7CJtp0P_-15mtFUaT8QUwHOs5_SKhS4IYZG0D6fjFpfv7HTH2DKe80X6Zs'
 API_URL = 'https://api.hmh.gov.mv/api/queue/0'
 # telegram links--------------------------------------------------------
-TELEGRAM_BOT_TOKEN = '7883099850:AAFGMRnEZGE5vKH6CUMHyZMmyBu3Sdl0pts'
+TELEGRAM_BOT_TOKEN = ''
 API_URL_BASE = f'https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/'
 Strelitzias_token = '' #the wacther
 Strelitzias_URL = f'https://api.telegram.org/bot{Strelitzias_token}/'
